@@ -1,0 +1,46 @@
+{
+  "_pkglts": {
+    "auto_install": true,
+    "install_front_end": "stdout",
+    "use_prompts": false,
+    "version": 3
+  },
+  "base": {
+    "authors": [
+      [
+        "revesansparole",
+        "revesansparole@gmail.com"
+      ]
+    ],
+    "namespace": null,
+    "pkgname": "geoportail",
+    "url": null
+  },
+  "doc": {
+    "description": "Set of tools to interact with geoportail website",
+    "keywords": []
+  },
+  "github": {
+    "owner": "{{ base.authors[0][0] }}",
+    "project": "{{ base.pkgname }}",
+    "url": "https://github.com/{{ github.owner }}/{{ github.project }}"
+  },
+  "license": {
+    "name": "mit",
+    "organization": "organization",
+    "project": "{{ base.pkgname }}",
+    "year": 2017
+  },
+  "pysetup": {
+    "intended_versions": [
+      "27"
+    ],
+    "require": []
+  },
+  "test": {},
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "post": 0
+  }
+}

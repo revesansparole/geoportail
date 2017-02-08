@@ -6,4 +6,4 @@ __version__ = version.__version__
 
 # #}
 
-from crawler import buffer_bbox
+from .crawler import buffer_bbox

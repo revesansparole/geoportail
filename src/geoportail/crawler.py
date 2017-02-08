@@ -7,7 +7,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-from geotools import latlong_to_tile_coords
+from .geotools import latlong_to_tile_coords
 
 base_url = "https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts"  # TODO token?
 

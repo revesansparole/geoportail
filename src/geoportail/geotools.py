@@ -29,4 +29,4 @@ def tile_resolution(zoom, latitude):
     Returns:
         (float): [m.pix-1] number of meters per pixel in the tile
     """
-    return 156543.034 * math.cos(latitude) / (2 ** zoom)
+    return 156543.034 * math.cos(math.radians(latitude)) / (2 ** zoom)

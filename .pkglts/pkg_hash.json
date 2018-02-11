@@ -1,9 +1,10 @@
 {
   ".gitignore": {
-    "github": "MRdLys3vaDL9iwBuZQW4YB3oJ8OwaGJeAHqZDUpPSpGHl0pENcpfsckLl8SPhFIKnodXkYM41AsPFBz5QJQu0w=="
+    "git": "dvIceIZ96YU5HMyGDAn/2KNpeSMkCwyRiQ7jAQXMg7ukhni2RxPdWMNK2AMXnW5/Di6qp8BxTWGRbZqevEhDww=="
   },
   "AUTHORS.rst": {
-    "doc": "w6jfJjf36UAGY5xtLYQpKySd2EqWvvRiIPKeQFXiSTyCT3hLg/amjRE062vPZXvZTVKefknIXchZTe6xS0SCfQ=="
+    "doc.authors": "CIZkQBdlcbMQ9cjSOmeElRpm2/KH1i1eeu+bmkOzpRxmTlWNul454HsEnhwthJM/PhvJZjni3riRiY1lm18Ehw==",
+    "doc.contributors": "UYkFEYiJSXLzSbq58sZMrcT7EshjsFW56pYVxt5bgQWOvoAMsA2A+vUSOlLiXfzzmgeQ7xnhcfkKbCr969GZkg=="
   },
   "CONTRIBUTING.rst": {},
   "HISTORY.rst": {},
@@ -25,23 +26,23 @@
   "doc/readme.rst": {},
   "doc/usage.rst": {},
   "dvlpt_requirements.txt": {
-    "pysetup": "lCbGKPjPfZaLiwclMKKn7EdCraYOyhNIZcfBdXCFnX8YV/uOTypLRFYBm7uxfWtnSe62wAlYDv/2EzakafsQtw=="
+    "pysetup": "/lgFRz5zOwwSIDuwxWxpQ4Qj6hCbg2DKDU2UU5mO4Ou60TQI7mqHtLIcUYpMkUxX7Mu0q6mqfn9vaG20dIkSLw=="
   },
   "requirements.txt": {
     "pysetup": "/5djJXLbrvuFk7LIgtfgYR8RnQrY5BEmOB4zEd0PrKeswR/8sQkzj4yKy7Zl3LAdRzYjPDhWiRkS1oMCG4FX7Q=="
   },
   "setup.cfg": {
-    "pysetup": "1iCSDvs9xY0GOgde2dHQdpu5siqLRSbSiVZr6vEMin886x1NKrTLw0f1AJuSUwPfsoXa1a1EfRsDFadXx3Qy8A=="
+    "pysetup": "rFiT1aXKTVa72LWfGtl0DzAd1yhXXlb64GW3GynO0SSSWT4F6LkV29pV+7xrnQsnrzS2kcOLJ6IvUjubSa4W9g=="
   },
   "setup.py": {
     "pysetup.call": "2wHuP94SpWKZpqOzExkQGTxnhGPgBHK3qOdPn0Ncstj5FkZ7FBGGM/inqAXaI4QLKQtTNlOUYRGSkYUWAUcf1w==",
-    "pysetup.kwds": "C9cyzXOv6W7xvjIwN5QzeZluI4m7MmhJLzxclfdpTg8vXXXGTatojhNewReJyf8Tx8ZwrW0dHjWMpwmCfIdJSg=="
+    "pysetup.kwds": "d2ELGq5aL/KCEkhljU/1RgdJt3MJVz0Adgt3VgQpRpqvbryt6WoHnavRcWlZuDbtwL24Y7gfkNsHO5LW0yJ38A=="
   },
   "src/geoportail/__init__.py": {
     "base": "gR33dW0qqYmsV9NSNB+DD8XmuxnC2t0mKjnMoU5728qh97fSER6MbX+3QKxpZDLByZToaAay4xhx8acxketJmA=="
   },
   "src/geoportail/version.py": {
-    "version": "K+3dAFVYyR1elQoz21ZVBOrqgY0XrwPJadWEoPoYfnWMFnSK9FGP7Tgvsv96IzROU6RUINAea9kWp4aFPaJkAg=="
+    "version": "zPSjcXjPvzwAi3cMF6DWCvsp9C/Zm+Gngkl+VZuwQAbvgwYTBuaQvG/Qrg8q1dlb9IQfntctg6XFR5OW7byQrQ=="
   },
   "test/__init__.py": {}
 }

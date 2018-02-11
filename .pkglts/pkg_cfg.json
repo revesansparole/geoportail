@@ -3,7 +3,7 @@
     "auto_install": true,
     "install_front_end": "stdout",
     "use_prompts": false,
-    "version": 3
+    "version": 11
   },
   "base": {
     "authors": [
@@ -13,13 +13,16 @@
       ]
     ],
     "namespace": null,
+    "namespace_method": "pkg_util",
     "pkgname": "geoportail",
     "url": null
   },
   "doc": {
     "description": "Set of tools to interact with geoportail website",
+    "fmt": "rst",
     "keywords": []
   },
+  "git": {},
   "github": {
     "owner": "{{ base.authors[0][0] }}",
     "project": "{{ base.pkgname }}",
@@ -33,14 +36,16 @@
   },
   "pysetup": {
     "intended_versions": [
-      "27"
+      "36"
     ],
     "require": []
   },
-  "test": {},
+  "test": {
+    "suite_name": "pytest"
+  },
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "post": 0
   }
 }
